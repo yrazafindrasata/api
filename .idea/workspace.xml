@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="28f8e4e1-0c86-4494-af93-1aabf63cef9e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/doctrine.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/doctrine.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -198,7 +198,7 @@
       <workItem from="1566204690163" duration="8247000" />
       <workItem from="1566217622750" duration="41820000" />
       <workItem from="1566457921310" duration="499000" />
-      <workItem from="1566458873066" duration="5481000" />
+      <workItem from="1566458873066" duration="7001000" />
     </task>
     <servers />
   </component>
